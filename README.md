@@ -16,3 +16,4 @@ The glitching does not occur if there is enough space underneath the deleted ele
 
 _Besides that edge case, a really nice animation helper_
 
+
